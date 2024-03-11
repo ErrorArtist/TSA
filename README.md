@@ -14,6 +14,7 @@ For multivariate time series the topics are:
 - dynamic regressions, spurious regressions;
 - vector autoregressive models, vector GARCH, state space models;
 - trend, cointegration and error correction models.
+  
 Additional research topics will be covered, such as:
 
 - nonlinear time series models;
